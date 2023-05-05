@@ -280,9 +280,10 @@ For Noto Serif, use Times New Roman as a fallback and use the generic serif fami
   opacity: 0.7;
 }
 
-.form__label_form-tou {
-  display: flex;
+.form__label .form__label_tou {
+  /* display: flex;
   justify-content: center;
+  align-content: center; */
 }
 
 .form__checkbox {
