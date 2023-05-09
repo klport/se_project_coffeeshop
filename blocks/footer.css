@@ -88,3 +88,7 @@
   font-size: 16px;
   line-height: 20px;
 }
+.footer__list-item {
+  color: #6f6f6f;
+  list-style: none;
+}

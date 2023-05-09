@@ -1,0 +1,24 @@
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.nav__links {
+  display: flex;
+  align-items: first baseline;
+  column-gap: 20px;
+  list-style: none;
+  margin: 30px 100px;
+  padding: 0;
+}
+
+.span-accent {
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2f80ed;
+  display: block;
+}
