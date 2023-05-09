@@ -34,6 +34,16 @@
   max-width: 729px;
 }
 
+.header__span-accent {
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2f80ed;
+  display: block;
+}
+
 .header__description {
   font-family: "Noto Serif";
   font-style: normal;
