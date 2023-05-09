@@ -19,7 +19,4 @@ For Noto Serif, use Times New Roman as a fallback and use the generic serif fami
 
 @import url(../blocks/about.css);
 
-@import url(../blocks/footer.css)
-
-
-
+@import url(../blocks/footer.css);
