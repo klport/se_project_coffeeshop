@@ -21,17 +21,13 @@
 .footer__social-heading {
   display: flex;
   justify-content: flex-end;
-  padding-bottom: 16px;
+  padding-bottom: 20px;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: "Inter";
-
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
-
   font-weight: bold;
-
   font-size: 16px;
-
   line-height: 20px;
 }
 
@@ -52,7 +48,10 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  color: #6f6f6f;
+  list-style: none;
 }
+
 
 .footer__list-item:last-child {
   padding-bottom: 0px;
@@ -64,7 +63,7 @@
   margin-right: 10px;
 }
 .footer__social-link {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -88,7 +87,4 @@
   font-size: 16px;
   line-height: 20px;
 }
-.footer__list-item {
-  color: #6f6f6f;
-  list-style: none;
-}
+

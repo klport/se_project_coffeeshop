@@ -1,22 +1,11 @@
 
 .reservation {
-  background-image: url(../images/background_reservation.svg);
-  background-color: #d9e7ff;
-  height: 100vh;
-  /* min-height: 720px;
-  max-height: 880px; */
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-
-.reservation {
-  height: 100vh;
   background-color: #d9e7ff;
   background-image: url("../images/background_reservation.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding-bottom: 120px;
 }
 
 .reservation__title {

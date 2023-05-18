@@ -4,7 +4,7 @@
   height: 100vh;
   min-height: 720px;
   max-height: 880px;
-  padding: 30px 80px 40px;
+  padding: 30px 30px 40px;
   background-color: #fff;
   background-image: url(../images/background_header.svg);
   position: relative;
@@ -30,7 +30,7 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
-  margin: 30px 0 0 80px;
+  margin: 30px 0 0 30px;
   max-width: 729px;
 }
 
@@ -50,14 +50,8 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-  margin: 28px 0 0 80px;
+  margin: 28px 0 0 30px;
 }
-
-
-
-
-
-
 
 .header__footer {
   margin-top: auto;

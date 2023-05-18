@@ -1,23 +1,23 @@
 .menu {
   background-image: url(../images/background_menu.svg);
   background-color: #fff;
-  height: 100vh;
-  /* min-height: 720px;
-  max-height: 880px; */
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .menu__title {
-  margin: 0;
-  max-width: 780;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 780px;
   padding: 100px 0 24px 0;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .menu__subtitle {
