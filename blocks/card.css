@@ -35,7 +35,7 @@
 }
 
 .card__list-item:last-of-type {
-  margin: 0;
+  padding: 0;
 }
 
 .card__list-divider {
