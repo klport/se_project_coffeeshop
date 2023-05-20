@@ -20,12 +20,5 @@
   line-height: 52px;
 }
 
-.reservation__form {
-  /* This class should only contain the external geometry for the form: the rules that are responsible for its position inside reservation block (its margins). */
-/* All structural properties of the form that are essential to its internal structure, e.g. flexbox rules, should be given to the block class. */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
+.
 
