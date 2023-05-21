@@ -40,7 +40,6 @@
 .menu__cards {
   gap: 100px;
   display: flex;
-  flex-dire ction: row;
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
